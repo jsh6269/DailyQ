@@ -11,4 +11,10 @@
   * Minimum SDK: API 29: Android 10.0 (Q)  
    (Emulator: Pixel 4 API 30 w/ Android 11.0 Google Play | x86)
 
-- SNS 앱을 만들면서 배우는 안드로이드 클라이언트 개발
+- SNS 앱을 만들면서 배우는 안드로이드 클라이언트 개발  
+
+4 files are empty for security  
+./dailyq.jks  
+./keystore.properties  
+./app/google-services.json  
+./daily-q-server/service_account.json  
